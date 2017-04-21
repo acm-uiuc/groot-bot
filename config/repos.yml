@@ -1,0 +1,120 @@
+---
+- repo: acm-uiuc/groot:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-desktop-frontend:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-api-gateway:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-meme-service:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-groups-service:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-quotes-service:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-users-service:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-recruiters-service:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-swift:
+  - pr-mod
+  - issue-classify 
+
+- repo: acm-uiuc/groot-merch-service:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-gigs-service:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-voz-service:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-auth-stub-service:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - pr
+
+- repo: acm-uiuc/groot-merch-service:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-merch-service:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
+    - beta
+    - pr
+
+- repo: acm-uiuc/groot-groups-store:
+  - pr-mod
+  - issue-classify 
+  - auto-deploy: 
+    - prod
